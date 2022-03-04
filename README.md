@@ -27,18 +27,11 @@
 
 # Citation
 
-## If you use this code in your research, we would appreciate a citation to the original paper:
+## If you use this program in your research, we would appreciate a citation to the original paper:
 ```
-@article{roy2021attention,
-     title={A method for quality management of vegetation phenophases derived from satellite remote sensing data},
-     author={Yongjian Ruan, Xinchang Zhang, Qinchuan Xin, Ying Sun, Zurui Ao and Xin Jiang},
-     journal={International Journal of Remote Sensing},
-     year={2021},
-     publisher={International Journal of Remote Sensing}
-     }
+Ruan Y, Zhang X, Xin Q, et al. (2021) A method for quality management of vegetation phenophases derived from satellite remote sensing data[J]. International Journal of Remote Sensing, 42:15, 5811-5830, DOI: 10.1080/01431161.2021.1931534.
+
 ```
-## Here is the paper URL:
-![Paper URL](https://github.com/ruanyj5/phen0/blob/main/2021_A%20method%20for%20quality%20management%20of%20vegetation%20phenophases%20derived%20from%20satellite%20remote%20sensing%20data.pdf)
 
 # Requirements
 
@@ -74,19 +67,10 @@ If any scientific research team needs to refer to this program, please add the r
 
 # 引用
 
-## 如果需要使用这个编码文件, 我们希望原始文献能够得到引用:
+## 如果在研究中使用该程序, 请引用以下文献:
 ```
-@article{roy2021attention,
-     标题={A method for quality management of vegetation phenophases derived from satellite remote sensing data},
-     作者={Yongjian Ruan, Xinchang Zhang, Qinchuan Xin, Ying Sun, Zurui Ao and Xin Jiang},
-     期刊={International Journal of Remote Sensing},
-     年份={2021},
-     发布={International Journal of Remote Sensing}
-     }
+Ruan Y, Zhang X, Xin Q, et al. (2021) A method for quality management of vegetation phenophases derived from satellite remote sensing data[J]. International Journal of Remote Sensing, 42:15, 5811-5830, DOI: 10.1080/01431161.2021.1931534.
 ```
-# 文献网址:
-![文献网址](https://github.com/ruanyj5/phen0/blob/main/2021_A%20method%20for%20quality%20management%20of%20vegetation%20phenophases%20derived%20from%20satellite%20remote%20sensing%20data.pdf)
-
 # 使用需知
 
-***此程序由阮永俭、辛秦川、张新长、江鑫合作完成，发布仅供用户科研使用，若有科研团队需参考此程序内容，烦请在参考文献中加入此文的引用，参考文献亦发布在网站，十分感谢！***
+***此程序由阮永俭、辛秦川、张新长、江鑫合作完成，发布仅供用户科研使用**
