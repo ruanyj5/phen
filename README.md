@@ -42,8 +42,6 @@
 
 # Requirements
 
-***
-This small program is jointly completed by academician Ruan Yongjian, Xin Qinchuan, Zhang Xinchang, Jiang Xin. 
+***This small program is jointly completed by academician Ruan Yongjian, Xin Qinchuan, Zhang Xinchang, Jiang Xin. 
 It is only published for users' scientific research. 
-If any scientific research team needs to refer to this program, please add the reference of this article in the reference literature, which is also published on the website, thank you very much!
-***
+If any scientific research team needs to refer to this program, please add the reference of this article in the reference literature, which is also published on the website, thank you very much!***
