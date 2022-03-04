@@ -2,7 +2,7 @@
 
 # The models of six methods for extracting vegetation phenophases (i.e. start of season(SOS) and end of season (EOS))
 
-# Run requirements and Usage description
+# Usage description
 
 ## The following is a brief description of the operating environment and conditions of the program.
 ## 1) The program must run on Linux
@@ -40,4 +40,10 @@
 ## Here is the paper URL:
 ![Paper URL](https://github.com/ruanyj5/phen0/blob/main/2021_A%20method%20for%20quality%20management%20of%20vegetation%20phenophases%20derived%20from%20satellite%20remote%20sensing%20data.pdf)
 
+# Requirements
 
+***
+This small program is jointly completed by academician Ruan Yongjian, Xin Qinchuan, Zhang Xinchang, Jiang Xin. 
+It is only published for users' scientific research. 
+If any scientific research team needs to refer to this program, please add the reference of this article in the reference literature, which is also published on the website, thank you very much!
+***
