@@ -37,7 +37,7 @@
      publisher={International Journal of Remote Sensing}
      }
 ```
-## Here is the paper url:
-![Paper doesn't exsit!](https://github.com/ruanyj5/phen0/blob/main/2021_A%20method%20for%20quality%20management%20of%20vegetation%20phenophases%20derived%20from%20satellite%20remote%20sensing%20data.pdf)
+## Here is the paper URL:
+![Paper URL](https://github.com/ruanyj5/phen0/blob/main/2021_A%20method%20for%20quality%20management%20of%20vegetation%20phenophases%20derived%20from%20satellite%20remote%20sensing%20data.pdf)
 
 
