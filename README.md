@@ -55,10 +55,10 @@ If any scientific research team needs to refer to this program, please add the r
 ## 1) 程序必须在linux 系统下运行
 ## 2) 最好是g++ 5.4 以上的C++版本
 ## 3) 必须安装GDAL
-## 4) 需要准备好一个包含46期影像(一年的时间序列)的tif （int16格式的，详细参考示例数据 LC08_024035_2.tif ）
+## 4) 需要准备好一个包含46期影像(一年的时间序列)的tif （int16格式的，详细参考示例数据 LC08_024035_2_01.tif ）
 ## 5) 运行方式 进入程序根目录后，用以下方式运行：
-### ./open_MP_EOS LC08_024035_2.tif  EOS.tif   #(运行EOS的程序  ，LC08_024035_2.tif 示例数据，EOS.tif  输出数据 )
-### ./open_MP_SOS LC08_024035_2.tif  SOS.tif  #(运行SOS的程序 )
+### ./open_MP_EOS LC08_024035_2_01.tif  EOS.tif   #(运行EOS的程序  ，LC08_024035_2_01.tif 示例数据，EOS.tif  输出数据 )
+### ./open_MP_SOS LC08_024035_2_01.tif  SOS.tif  #(运行SOS的程序 )
 ## 6) 可以通过.sh 文本批量调用程序，将数据拷贝到output路径下
 ### ./sos1.sh #(运行EOS的程序 )
 ### ./eos1.sh #(运行SOS的程序 )
