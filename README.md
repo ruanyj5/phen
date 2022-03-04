@@ -1,6 +1,6 @@
 # Phenology
 
-# The models of six methods for extracting vegetation phenophases (i.e. start of season(SOS) and end of season (EOS))
+# The program of six methods for extracting vegetation phenophases (i.e. start of season(SOS) and end of season (EOS))
 
 # Usage description
 
@@ -8,7 +8,7 @@
 ## 1) The program must run on Linux
 ## 2) The C++ of g++ 5.4 is preferred
 ## 3) GDAL must be installed
-## 4) You need to prepare a TIF (INT16 format) with 46 issues (one year time series). For details, see lc08_024035_2_01.tif.
+## 4) You need to prepare a TIF image (INT16 format) with 46 layers (one year time series). For details, see lc08_024035_2_01.tif.
 ## 5) Operation Mode After entering the root directory of the program, run it in the following way:
 ### ./open_MP_EOS LC08_024035_2_01.tif eos. tif #(Run EOS program, lc08_024035_2_01.tif sample data, eos.tif output data)
 ### ./open_MP_SOS lc08_024035_2_01.tif sos. tif #
